@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bikinphotobook-app",
+  "private_key_id": "476615d93558f0c485f3fbfca9ea509efdff2b9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNlz+0afGrA02O\nzoBzr0fkl5jci0OlhFIDHQxG8jE1g9IRsfp8lUtl+2OZMQvx4hkaaQmb9JujaHQJ\ncdOveasVmGMODRnIRPr+uzvazTa3P4iTDCmcjE5rFqylIIvFCvVwIPaoO+fYAe37\n5xCOVX4g7Uxyk/mwKSZ0Qz6eP8LdR7NposoVdxyg9Aw4K7ZlUaZDgumj27Chwx8K\nn2keSZTxfxESuhmaUKIJHqg7UGsFoWu6G1eM/XcvFHgT9hwlOwC4I+3XfqqF/612\nCycdVTpPvkVVHgAkcAvpOP9k4tQaWBc7WPx7rRs0hmC7jVQ2z5caSK/tIFFexAHT\nUIaMaxnFAgMBAAECggEAC/s33+BvZb39iR2zvV+GWxC9Udez4N4t7AyHU03OBwZg\nTwkGRg2/+njaEcAaqBq7HR+TSx7IQI+tI4JvXxdCHIdoTmtTs1OBz9KYPGTKlDIE\nWD1/N1EInj5mCqwzjmTYb5PG4YBhlI8YOslOh7JSdWzJkGvbQ07tSh1DyvPVpruU\nzHPzwcZa7g4bDhjO/Gj4ZmRrskvZqebq4smm1YdA7kZUuZ4ncDqRJWy1AOdTplo/\nxBpdOcviw1q+TRS82KNLObIcy41VnjntQyfmQRZSAfIiEHSwm3WFbnacAP+oKM94\nDzjVbT8EqYJei8545+Do/CDS1v1lP5jNd0ZhleUvQQKBgQD8J6fRacsC9NVV8sE2\nq7ZB0pRQym0iYhvadkgHREQveZ0asa6GiDoRwJnKMwOJxKF2mhF+shmb86PDEQx9\n+mqUvEfLVRsdWAjxgqG2mS8lzGS8kfWJ11rd9rblgytAdZfnry5iDdaF8l3l9G2K\nSUgKKuTI4eCtLJ9sdH0Rm1xTCQKBgQDQudHY34tBGgUqy7+Bp3fE0xgxWwxuIwQd\ndIjI0OZDzrXWB9b/uADBK04ODNYGiupd40IbET3nWRl14iIxn+yJrXtyyTSwG6D5\nL50t9XnV77OHbU/7UXQH1QNuw8GZEFUP9CIR0mTpJDHcFv9MvehendpjAzCFnArz\n1ESs6c/T3QKBgQDtZ0yqbqeTrf3ZwQfGuF6NlHzNn/imYaaFxc1FAjIMXLzcsCN4\nSHQb2LEy3VrccAPxDVehaH+SBA7QDpIrXgTQ6n/R4dv4gbVR5ULqD0mDle/WVrnN\nwLOtvaYvapLjSpPtr1LFQPAUBr//TGWByEMKR55Fv9zwTs3+p6JFXHfNOQKBgC/f\n7zoHTDGKflTqlupuNxJ2OL5ZW+iHL5JyAE3PXIGBEEQfWDkfQ00LWcPvPcgSZN9U\nGP2MXt6JmUVosN8hB2gs2nvhmqwqKin9udeozmE7sboGYKoMbMi/GyJ01Br/nAMk\nxAvCblLrcmRBAh3gEURigIzlVmPO/tQehAIFPx4hAoGBAPH25oax26l0lVK6NxMA\n7aTMH5vU1tL5vvNQBzdpCG56h3ykb9/DCE9gmOcwvcMPCMa4aiIwFq56cGZMJd7R\nGf39E0MrL2Po1QdhwpRRV2c1fsa3yNWxLwod2BNGxhJ5oxpIMD9fJu1sf46AzKz0\nRq9nqJpH3g938qoT/yFzYXrs\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qwwqo@bikinphotobook-app.iam.gserviceaccount.com",
+  "client_id": "116400015857710892785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qwwqo%40bikinphotobook-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
